@@ -5,6 +5,7 @@
 정형분석을 이용하여 수익의 상관관계를 알아보고 해당 모델을 추출하여 웹사이트를
   통해 본인의 수준이 어느정도인지 찾아주는 모델제작하였습니다.
 project_keras.ipynb를 통해 모델 추출 후 pycham레퍼지토리에 모델을 추출한 디렉토리를 설정해주면 됩니다.
+![image](https://user-images.githubusercontent.com/103613730/237005390-7ebd27bc-797b-4a6d-a683-5812e9f2e08d.png)
 
 ---
 ### 시계열
