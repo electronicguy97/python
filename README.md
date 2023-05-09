@@ -9,7 +9,10 @@ project_keras.ipynb를 통해 모델 추출 후 pycham레퍼지토리에 모델�
 ---
 ### 시계열
 시계열은 각 국가의 GDP 데이터를 분석하여 국가마다 발전 여부를 보여주는 모델을 제작하였습니다.
-ex)![data](https://user-images.githubusercontent.com/103613730/237005028-738073b7-cca9-49be-bfb6-fe7d76daee7c.png)
+ex) 해당 데이터는 전세계 GDP를 모델로 만들어진 예상 데이터입니다.
+
+
+![data](https://user-images.githubusercontent.com/103613730/237005028-738073b7-cca9-49be-bfb6-fe7d76daee7c.png)
 ---
 ### 텍스트
 word2vec,Okt e등을 사용하여 데이터를 해석 후 중요 단어를 추출하는 모델을 제작하였습니다.
